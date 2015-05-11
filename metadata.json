@@ -1,0 +1,26 @@
+{
+  "name": "puppet-module-mysql",
+  "version": "0.1.0",
+  "author": "nilesh",
+  "summary": "Nilesh test mysql profile module",
+  "license": "Apache 2.0",
+  "source": "https://github.com/NileBaro/nilesh-mysql",
+  "description": "",
+  "project_page": "https://github.com/NileBaro/nilesh-mysql/Readme.md",
+  "issues_url": "https://github.com/NileBaro/nilesh-mysql/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 4.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    }
+  ]
+}
