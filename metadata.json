@@ -1,13 +1,13 @@
 {
-  "name": "puppet-module-mysql",
+  "name": "puppet-nilesh_mysql_profile",
   "version": "0.1.0",
   "author": "nilesh",
   "summary": "Nilesh test mysql profile module",
-  "license": "Apache 2.0",
-  "source": "https://github.com/NileBaro/nilesh-mysql",
-  "description": "",
-  "project_page": "https://github.com/NileBaro/nilesh-mysql/Readme.md",
-  "issues_url": "https://github.com/NileBaro/nilesh-mysql/issues",
+  "license": "Apache-2.0",
+  "source": "https://github.com/NileBaro/puppet-nilesh_mysql_profile",
+  "description": "Nilesh mysql profile module",
+  "project_page": "https://github.com/NileBaro/puppet-nilesh_mysql_profile/README.md",
+  "issues_url": "https://github.com/NileBaro/puppet-nilesh_mysql_profile/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
